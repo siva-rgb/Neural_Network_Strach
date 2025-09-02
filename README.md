@@ -62,3 +62,7 @@ Example Predictions
   - How regularization prevents overfitting.
 
   - The internal mechanics behind popular deep learning frameworks.
+
+<p align="center">
+  <img src="newplot.png" alt="Accuracy Curve" width="400"/>
+</p>
